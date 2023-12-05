@@ -1,0 +1,16 @@
+{
+  "name": "@gpatsiaouras/signalk-raspberry-pi-mcp9808",
+  "version": "1.0.0",
+  "description": "MCP9808 temperature sensor to signalk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mcp9808-temperature-sensor": "^1.1.1"
+  },
+  "keywords": ["signalk-node-server-plugin"]
+}
